@@ -21,7 +21,7 @@ A simple Streamlit web app that recommends the best candidates for a job based o
 - OpenAI (Summarization)
 
 ## Deployment
-[Link to deployed app](YOUR_DEPLOYED_APP_URL)
+[Link to deployed app](https://candidate-recommender-aakanksha.streamlit.app/)
 
 ## Note
 If OpenAI summary isn't working, it may be due to API quota limits.
